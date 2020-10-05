@@ -1,0 +1,23 @@
+
+
+1. True/False questions
+For each of the following statements below, indicate whether it is true or false in Java:
+a) The value of a local variable named i has no direct relationship with that of a
+variable named i in its caller.
+Answer : True
+
+b) The value of a parameter named x has no direct relationship with that of a variable
+named x in its caller.
+Answer : True
+
+
+
+
+2. Tracing method execution
+
+For the program below, trace through its execution by hand to show what output is
+produced when it runs. 
+
+snitch: x = 4004, y = 1001
+quaffle: x = 2003, y = 1, z = 1001
+bludger: x = 1001, y = 2001, z = 2003
